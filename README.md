@@ -1,4 +1,4 @@
-# SustainableBusinessExpansion
+# Sustainable Business Expansion
 
 ## Description
 This project explores a strategic business expansion into exportable primary products, aiming to enhance revenue sustainability, manage cash-flow volatility, and hedge against foreign exchange risk for a government project construction company.
